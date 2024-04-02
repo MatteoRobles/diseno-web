@@ -1,0 +1,81 @@
+img{
+    width: 250px;
+    height: 250px;
+    border: 10px solid rgb(198, 211, 51);
+}
+
+* {
+    font-size: 20px;
+    font-family: Georgia;
+    line-height: 1;
+    font-weight: 10;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+.txt{
+    width: auto;
+    height: auto;
+    font-size: 70px;
+}
+
+.txt::first-line {
+    color: darkgoldenrod;
+    font-size: 2em;
+}
+
+.salchicha {
+    width: 130px;
+    height: 130px;
+    background: #aaaf7b;
+    margin: auto;
+    border: solid rgba(49, 51, 31, 0.895) 10px;
+    left: 10px;
+    top: 10px;
+    border-radius: 4em;
+}
+
+.ternera{
+    width: 130px;
+    height: 130px;
+    background: #131312;
+    margin: auto;
+    border: solid rgb(0, 0, 0) 10px;
+    left: 10px;
+    top: 10px;
+    border-radius: 2em;
+}
+
+.pan{
+    width: 30px;
+    height: 90px;
+    background: #aaaf7b;
+    margin: -40px;
+    border: solid rgba(49, 51, 31, 0.895) 10px;
+    left: 50px;
+    top: 40px;
+    border-radius: 2em;
+}
+
+.sopa{
+    width: 100px;
+    height: 180px;
+    background: #2b3787;
+    margin: auto;
+    border: solid rgba(15, 21, 78, 0.895) 10px;
+    left: 10px;
+    top: 10px;
+    border-radius: 2em;
+}
+
+.vegeta{
+    width: 30px;
+    height: 100px;
+    background:#aaaf7b;
+    margin: 135px;
+    border: solid rgba(49, 51, 31, 0.895) 10px;
+    left: 110px;
+    top: 100px;
+    border-radius: 2em;
+}
+
